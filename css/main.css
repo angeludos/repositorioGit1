@@ -30,7 +30,9 @@ html {
     background: #b3d4fc;
     text-shadow: none;
 }
-
+a{
+	color:red;
+}
 ::selection {
     background: #b3d4fc;
     text-shadow: none;
